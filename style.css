@@ -12,7 +12,8 @@ body{
     
 }
 .video{
+	position: absolute;
     margin-left: 20%;
     margin-top: 2%;
-    
+    align: center;
 }
