@@ -1,4 +1,5 @@
 body{
+    background-repeat: no-repeat;
     background-image: url(images/snowGif.gif);
     background-size: cover;
 }
